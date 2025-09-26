@@ -6,7 +6,8 @@ import "./bases/04-Arrays";
 import "./bases/05-funtions";
 import "./bases/06-desestructuracion";
 import "./bases/07-desestruc-arrays";
-import "./bases/Tarea01.TS";
+import "./bases/Tarea01.ts";
+import "./bases/data/heroes.data";
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
